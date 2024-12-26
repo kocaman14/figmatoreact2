@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-   <div className=" h-screen flex justify-center">
+   <div className="h-screen flex justify-center items-center">
     <div className="w-[1600px] h-[931px] top-[-466px] left-[-800px]  flex justify-between items-center">
 <div className="w-[552px] h-[642px] top-[191px] left-[128px] ml-[120px] ">
   <header>
@@ -18,10 +18,10 @@ LOGIN</h1>
   <section>
 <form  className="space-y-8">
   <div>
-<input className="w-[527px] h-[62px] top-[157px] left-[14px] rounded-[10px] border-[1px] font-montserrat text-lg font-normal leading-6 text-left underline-from-font decoration-none text-[rgba(16,26,28,0.84)]"  placeholder="Username"/>
+<input className="w-full h-[62px] rounded-[10px] border-[1px] font-montserrat text-lg text-left text-[rgba(16,26,28,0.84)]"  placeholder="Username"/>
   </div>
   <div>
-<input  className="w-[527px] h-[62px] top-[259px] left-[14px] rounded-[10px]  border-[1px] font-montserrat text-lg font-normal leading-6 text-left underline-from-font decoration-none text-[rgba(16,26,28,0.84)]" placeholder="Password"/>
+<input  className="w-full h-[62px] rounded-[10px] border-[1px] font-montserrat text-lg text-left text-[rgba(16,26,28,0.84)]" placeholder="Password"/>
   </div>
   <div>
 <button type="button" onClick={handleClick} className="w-[222px] h-[64px] top-[366px] left-[14px] rounded-[10px] duration-0 bg-[rgba(16,26,28,0.84)] text-[24px] text-white font-montserrat ">  LOGIN </button>
@@ -48,7 +48,7 @@ LOGIN</h1>
 </div>
 
 <inside>
-<img className="w-[800px] h-[800px] left-[811px] rounded-[200px_0px_0px_200px]  " src="./images/image 3.png"></img>
+<img className="w-[800px] h-auto left-[811px] rounded-[200px_0px_0px_200px]  " src="./images/image 3.png"></img>
 </inside>
 
 
