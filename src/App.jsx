@@ -24,7 +24,7 @@ LOGIN</h1>
 <input  className="w-[527px] h-[62px] top-[259px] left-[14px] rounded-[10px]  border-[1px] font-montserrat text-lg font-normal leading-6 text-left underline-from-font decoration-none text-[rgba(16,26,28,0.84)]" placeholder="Password"/>
   </div>
   <div>
-<button type="button" onClick={handleClick} className="w-[222px] h-[64px] top-[366px] left-[14px] rounded-[10px] "><img src="./images/Group 1.png"/></button>
+<button type="button" onClick={handleClick} className="w-[222px] h-[64px] top-[366px] left-[14px] rounded-[10px] duration-0 bg-[rgba(16,26,28,0.84)] text-[24px] text-white font-montserrat ">  LOGIN </button>
   </div>
 <div className="flex justify-between items-center">
 <div className="w-[246px] top-[474px]  h-[1px]  border-[1px] text-[rgba(16,26,28,1)]"></div>
