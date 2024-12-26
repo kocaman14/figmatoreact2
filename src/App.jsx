@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-   <div className="w-full h-screen flex justify-center">
+   <div className="w-full h-full flex justify-center">
     <div className="w-[1600px] h-[931px] top-[-466px] left-[-800px]  flex justify-between items-center">
 <div className="w-[552px] h-[642px] top-[191px] left-[128px] ml-[120px] ">
   <header>
