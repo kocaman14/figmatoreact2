@@ -48,7 +48,7 @@ LOGIN</h1>
 </div>
 
 <inside>
-<img className="w-[800px] h-[931px] left-[811px] rounded-[200px_0px_0px_200px]  " src="./images/image 3.png"></img>
+<img className="w-[800px] h-[900px] left-[811px] rounded-[200px_0px_0px_200px]  " src="./images/image 3.png"></img>
 </inside>
 
 
