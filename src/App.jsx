@@ -10,8 +10,8 @@ function App() {
 
   return (
     <>
-   <div className="h-screen flex justify-center items-center">
-    <div className="w-[1600px] h-[931px] top-[-466px] left-[-800px]  flex justify-between items-center">
+   <div className="h-screen flex justify-center items-center overflow-hidden">
+    <div className="w-[1600px] h-[931px] top-[-466px] left-[-800px]  flex justify-between items-center max-w-full max-h-screen">
 <div className="w-[552px] h-[642px] top-[191px] left-[128px] ml-[120px] ">
   <header>
 <h1 className='font-montserrat text-[100px] font-semibold leading-[121.9px] text-left decoration-skip-none text-[rgba(16,26,28,0.84)] '>
